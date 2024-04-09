@@ -28,8 +28,8 @@ Accessibility: The template uses semantic HTML elements (e.g., <label>, <textare
 
 
 ## Team members
-1. [Aneetta-Alias](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Ann-Maria-Benny](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Aksa-Boben](https://github.com/TH-Activities/saturday-hack-night-template)
+3. [Ann-Maria-Benny](https://github.com/TH-Activities/saturday-hack-night-template)
 
 ## How it Works ?
 
